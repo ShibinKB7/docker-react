@@ -9,7 +9,7 @@ function App() {
         <p>My First ReactJs Project 
 </p>
 <p>
-With Love Shibi
+Test automatic updates With Love Shibi
 </p>
         <a
           className="App-link"
